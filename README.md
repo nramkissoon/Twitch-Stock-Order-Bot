@@ -1,0 +1,2 @@
+Simple Twitch chat bot that looks for stock market orders and publishes them to an AWS SNS Topic.
+Used by this Stock Simulator Game Channel: [https://www.twitch.tv/twitchstocksimulator](https://www.twitch.tv/twitchstocksimulator)
